@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
-  </component>
-  <component name="MavenRunner">
-    <option name="delegateBuildToMaven" value="true" />
-    <option name="vmOptions" value="-Djavax.net.ssl.trustStore=C:\Util\develop\BASF_cacerts\BASF_cacerts -Djavax.net.ssl.trustStorePassword=changeit" />
-  </component>
-  <component name="OptimizeOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
